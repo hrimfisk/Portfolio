@@ -2,10 +2,8 @@ First-Person Dungeon Crawler inspired by Might and Magic IV, Diablo II, the Dark
 
 I worked on this project with 1 other person that I took several classes with at the Academy of Art University
 
-Features created entirely by me:
-Procedurally generated dungeon
-Spell system
-UI
+Features I worked on: architecture, save/load system, random dungeon and loot generation, inventory
+and equipment, combat, spells, UI, and AI
 
 The zip is too large so I have to link it through Google drive
-https://drive.google.com/file/d/1zn64v2pGyTrJKJblo61AhjejLpKNqFBJ/view?usp=sharing
+https://drive.google.com/file/d/1htBCrthbVPRx0I97pFlx_uHQcDQvE7hq/view?usp=sharing
